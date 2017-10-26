@@ -1,0 +1,16 @@
+PODS:
+  - iCocosCommponent (0.1.0)
+
+DEPENDENCIES:
+  - iCocosCommponent (from `../`)
+
+EXTERNAL SOURCES:
+  iCocosCommponent:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iCocosCommponent: 33010a4e266ffcc55d94226dd50f8fa6683c6b66
+
+PODFILE CHECKSUM: 97705933a727eb088958f073ba93bbed0aa7b495
+
+COCOAPODS: 1.4.0.beta.2

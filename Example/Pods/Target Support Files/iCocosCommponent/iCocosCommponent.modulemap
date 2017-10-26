@@ -1,0 +1,6 @@
+framework module iCocosCommponent {
+  umbrella header "iCocosCommponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

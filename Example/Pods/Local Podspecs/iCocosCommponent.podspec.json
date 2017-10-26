@@ -1,0 +1,22 @@
+{
+  "name": "iCocosCommponent",
+  "version": "0.1.0",
+  "summary": "A short description of iCocosCommponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/al10201119@163.com/iCocosCommponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "al10201119@163.com": "al10201119@163.com"
+  },
+  "source": {
+    "git": "https://github.com/al10201119@163.com/iCocosCommponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iCocosCommponent/Classes/**/*"
+}
