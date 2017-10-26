@@ -1,0 +1,6 @@
+use_frameworks!
+target 'iCocosCommponent_Tests' do
+  pod 'iCocosCommponent', :path => '../'
+  
+  
+end
